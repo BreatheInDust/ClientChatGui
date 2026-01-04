@@ -15,16 +15,16 @@ A custom client-side chat interface built on Roblox’s **TextChatService**. Des
 - No server scripts required (client-only UI)  
 
 ## Requirements
-
+- Android on a mobile device or Android emulator, like Genymotion or Mumu Player.
 - Roblox experience must have **TextChatService enabled**  
 - Chat version must be set to `TextChatService`  
 - HTTP permissions are **not required** unless loading remotely  
 
 ## Installation
 
-1. Enable **TextChatService** in your experience settings.  
-2. Place the script in `StarterPlayer > StarterPlayerScripts`.  
-3. Publish and test in a live session (TextChatService does not fully function in Studio Play Solo).  
+1. Go to https://deltaexploits.gg/ and install. This is for Android only. I'm not responsible if you get hacked.
+2. Once installed, set up an Alt Roblox account to prevent getting banned. I recommend using an emulator, like Genymotion or Mumu Player. 
+3. Once you join a game, load the script and chat with other people! This emulates the Roblox TextChatService inside of a new GUI that Roblox can't understand.
 
 ## Usage
 
@@ -56,7 +56,11 @@ You can easily tweak:
 
 ## Why This Exists
 
-Roblox’s default chat UI is inflexible for custom experiences. This script provides a clean, controllable chat layer while staying fully compatible with TextChatService.
+Two Reasons,
+
+1: Roblox introduced Age Checks, and anybody who does not comply with Age Checks will not be able to chat. I've noticed that people are making custom chats inside of games, but that doesn't work everywhere. So why not make one that does?
+
+2: Roblox’s default chat UI is inflexible for custom experiences. This script provides a clean, controllable chat layer while staying fully compatible with TextChatService.
 
 ## License
 
