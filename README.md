@@ -60,7 +60,7 @@ Roblox’s default chat UI is inflexible for custom experiences. This script pro
 
 ## License
 
-tive Commons Zero v1.0 Universal (CC0 1.0). You can use, modify, and distribute this work without restriction, but you must always credit me: COLMLENEHAN.
+Creative Commons Zero v1.0 Universal (CC0 1.0). You can use, modify, and distribute this work without restriction, but you must always credit me: COLMLENEHAN.
 
 ## Credit
 
